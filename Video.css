@@ -1,0 +1,19 @@
+.Video__comp{
+    margin-left: 35px;
+}
+
+img{
+    width:250px;
+    height: fit-content;
+}
+
+.details{
+    display: flex;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.text{
+    margin-top: -10px;
+}

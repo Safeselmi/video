@@ -1,0 +1,4 @@
+.recommendation{
+    display: flex;
+    flex-wrap: wrap;
+}
